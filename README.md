@@ -1,2 +1,1 @@
-# data-projects
-My data science portfolio.
+# i am an artist
